@@ -1,0 +1,4 @@
+*.xes
+*.csv
+*.xml
+!bpic_2020/constraints_support_clusters.csv
